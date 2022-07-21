@@ -1,0 +1,146 @@
+* {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    color: #fff;
+  }
+  
+  .box {
+    margin: 50px;
+    padding: 60px;
+    width: 60%;
+    height: 100%;
+    border-radius: 20px;
+    align-self: center;
+    background-color: #3f6324;
+    background-image: none;
+    background-position: 0 90%;
+    background-repeat: repeat no-repeat;
+    background-size: 4px 3px;
+    border-radius: 15px 225px 255px 225px 15px 255px 15px 155px;
+    border-style: none;
+    border-width: 0px;
+    box-shadow: rgba(0, 0, 0, .2) 15px 28px 25px -18px;
+    box-sizing: border-box;
+    display: inline-block;
+    font-size: 1rem;
+    line-height: 23px;
+    outline: none;
+    padding: 2rem;
+    text-decoration: none;
+    transition: all 235ms ease-in-out;
+    border-bottom-left-radius: 15px 255px;
+    border-bottom-right-radius: 225px 15px;
+    border-top-left-radius: 255px 15px;
+    border-top-right-radius: 15px 225px;
+  }
+  
+  
+  h1 {
+    font-size: 52px;
+    font-family: 'Baloo 2', cursive;
+    line-height: 1;
+    padding: 0px 0px 20px 0px;
+    display: inline-block;
+    background-image: linear-gradient(-45deg, #fff, #538d22, #9edc7d, #15cf00) !important;
+    background-size: 400% !important;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-animation: Gradient 10s ease infinite !important;
+    -moz-animation: Gradient 10s ease infinite !important;
+    animation: Gradient 10s ease infinite !important;
+  }
+  
+  
+  @-webkit-keyframes Gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+  }
+  @-moz-keyframes Gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+  }
+  @keyframes Gradient { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 50%}
+    100%{background-position:0% 50%}
+  }
+  
+  /*
+  h1 {
+    font-size: 52px;
+    background: -webkit-linear-gradient(#a8e063, #56ab2f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Baloo 2', cursive;
+    line-height: 1;
+    padding: 0px 0px 20px 0px;
+  } */
+  
+  p {
+    font-family: 'Dongle', sans-serif;
+    font-size: 28px; 
+    color: #fff !important;
+    line-height: 0.8;
+  }
+  
+  #factDisplay {
+    font-family: 'Dongle', sans-serif;
+    font-size: 40px;
+    color: #fff;
+    line-height: 0.8;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+  }
+  
+  /* Button */
+  
+  /* CSS */
+  .button-55 {
+    align-self: center;
+    background-color: #fff;
+    background-image: none;
+    background-position: 0 90%;
+    background-repeat: repeat no-repeat;
+    background-size: 4px 3px;
+    border-radius: 15px 225px 255px 15px 15px 255px 225px 15px;
+    border-style: solid;
+    border-width: 2px;
+    box-shadow: rgba(0, 0, 0, .2) 15px 28px 25px -18px;
+    box-sizing: border-box;
+    color: #41403e;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Neucha, sans-serif;
+    font-size: 1rem;
+    line-height: 23px;
+    outline: none;
+    padding: .75rem;
+    text-decoration: none;
+    transition: all 235ms ease-in-out;
+    border-bottom-left-radius: 15px 255px;
+    border-bottom-right-radius: 225px 15px;
+    border-top-left-radius: 255px 15px;
+    border-top-right-radius: 15px 225px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-55:hover {
+    box-shadow: rgba(0, 0, 0, .3) 2px 8px 8px -5px;
+    transform: translate3d(0, 2px, 0);
+  }
+  
+  .button-55:focus {
+    box-shadow: rgba(0, 0, 0, .3) 2px 8px 4px -6px;
+  }
+  
