@@ -12,7 +12,7 @@ I wanted the project to be very minimalistic in it's appearance and user friendl
 + It was created using HTML, CSS and vanilla javaScript, with all the animal facts stored in an array.
 -----
 ### Updates
-+ Coming soon...
++ 29/07/22 - Added new animal facts!
 ***
 ### License 
 + You may clone or copy this project for your own **personal** use.
