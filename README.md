@@ -9,7 +9,7 @@ I wanted the project to be very minimalistic in it's appearance and user friendl
 + It also features an asymmetric button and box.
 -----
 ### Languages used
-+ It was created using HTML, CSS and vanilla javaScript, with all the animal facts stored in an array.
++ It was created using HTML, CSS and JavaScript, with all the animal facts stored in an array.
 -----
 ### Updates
 + 29/07/22 - Added new animal facts!
