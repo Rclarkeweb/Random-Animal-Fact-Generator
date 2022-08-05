@@ -13,6 +13,9 @@ I wanted the project to be very minimalistic in it's appearance and user friendl
 -----
 ### Updates
 + 29/07/22 - Added new animal facts!
++ Deployed with GitHub pages
+---
+### View this project at: [Random Animal Fact Generator](https://rclarkeweb.github.io/Random-Animal-Fact-Generator/)
 ***
 ### License 
 + You may clone or copy this project for your own **personal** use.
