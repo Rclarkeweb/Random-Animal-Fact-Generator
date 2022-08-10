@@ -12,8 +12,9 @@ I wanted the project to be very minimalistic in it's appearance and user friendl
 + It was created using HTML, CSS and JavaScript, with all the animal facts stored in an array.
 -----
 ### Updates
++ 10/08/22 - Added a Font Awesome Dice icon to button
++ 05/08/22 - Deployed with GitHub pages
 + 29/07/22 - Added new animal facts!
-+ Deployed with GitHub pages
 ---
 ### View this project at: [Random Animal Fact Generator](https://rclarkeweb.github.io/Random-Animal-Fact-Generator/)
 ***
