@@ -27,10 +27,21 @@ let newFact = () => {
 
 const copyBtn = document.getElementById('copyText');
 
+const copiedFact = document.getElementById('copied');
+
 async function copyFact () {
   const fact = document.getElementById('factDisplay').innerHTML;
 
   await navigator.clipboard.writeText(fact);
-};
+
+  copiedFact.style.display = "block";
+
+  setTimeout(() => {
+
+  copiedFact.style.visibility = 'hidden';
+
+}, 2000);
+
+};   
 
 copyBtn.addEventListener('click', copyFact);
