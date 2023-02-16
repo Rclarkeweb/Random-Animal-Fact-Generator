@@ -17,6 +17,7 @@ It was created using HTML5, CSS3, Flexbox and Vanilla JavaScript.
 
 ## Updates
 
+- 16/02/23 - Edited code to let facts only appear once and added a window refresh button when all facts have been shown. Added new facts.
 - 27/01/23 - Redesign the UI, added more facts and added a copy text function.
 - 10/08/22 - Added a Font Awesome Dice icon to button
 - 05/08/22 - Deployed with GitHub pages
