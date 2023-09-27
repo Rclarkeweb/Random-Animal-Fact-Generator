@@ -27,6 +27,13 @@ It was created using HTML5, CSS3, Flexbox and Vanilla JavaScript.
 
 You can view the project [here](https://rclarkeweb.github.io/Random-Animal-Fact-Generator/).
 
+## Screenshot
+
+![image](https://github.com/Rclarkeweb/are-you-bored/assets/108008511/a4440c5b-bd27-4aa6-9135-cbe41fac9f4b)
+
+**With fact**
+![image](https://github.com/Rclarkeweb/are-you-bored/assets/108008511/8cafeb70-18f4-470e-9559-fdde455d308e)
+
 ## Usage and license
 
 You may fork or copy this project for your own **personal** use.
